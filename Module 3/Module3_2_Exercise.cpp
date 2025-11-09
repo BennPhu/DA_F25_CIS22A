@@ -17,7 +17,7 @@ int main() {
     cout << "Number 1: "; cin >> num1;
     cout << "Number 2: "; cin >> num2;
     cout << "Number 3: "; cin >> num3;
-    float result = (num1 + num2) / (pow(3,5));
+    float result = (num1 + num2) / (pow(num3,5));
     cout << fixed << setprecision(2);
     cout << "(num1 + num2) / num3^5 = " << result << endl;
 
