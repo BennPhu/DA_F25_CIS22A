@@ -1,4 +1,4 @@
-//BennNguyen_Exercise4.3
+//BennNguyen_Exercise4.4
 //8th Nov 2025
 /* This program estimates dog's age in equivalent human years.
 Extend the program for dogYears to support age of 6 and age of 7.
