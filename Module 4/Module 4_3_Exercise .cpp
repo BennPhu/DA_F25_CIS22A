@@ -17,9 +17,9 @@ int main()
 
     cout << "Input your average:" << endl;
     cin >> average;
-    if( average >= 90.0 && average <= 100.0 )
+    if( average >= 90 && average <= 100 )
         cout << 'A' << endl;
-    else if( average >= 80.0 && average <= 89.0 )
+    else if( average >= 80 && average < 89)
         cout << 'B' << endl;
     else if( average >= 60 && average <= 79)
         cout << "You Pass" << endl;
